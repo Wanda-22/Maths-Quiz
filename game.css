@@ -1,0 +1,44 @@
+body{
+    background-image:url("BG2.png");
+    font-family: "Trirong", serif;
+}
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 25px;
+	}
+
+
+#player1_name , #player2_name, #p1n, #p2n
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-size: 40px;
+}
+h1{
+    font-size: 60px;
+    color: #191970;
+	font-weight: 900;
+
+}
+label{
+    font-size: 35px;
+}
+button{
+	background-color: #4169E1;
+	font-size: 30px;
+	color:#FFFFFF;
+	border-color: #4169E1;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #808000;
+padding: 10px;
+float: none;
+text-align: left;
+}
